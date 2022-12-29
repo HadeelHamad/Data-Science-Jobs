@@ -11,22 +11,20 @@
 The code should run using Python 3, and it is designed as Jupyter Notebook so Anaconda distribution of Python shall run the code successfully without the need to install additional libraries or frameworks.
 
 
-## Project Motivation
+## Project Motivation <a name="motivation"></a>
 
 In this project, I used the Data science job salary dataset . 
-I analyzed the data to have a good answers for the following business questions:
+I analyzed the data to have good answers for the following business questions:
 1. What are the available data science job titles? and what are their distribution?
 2. What are the top positions in terms of the highest average salary?
 3. Where can juniors (entry-level) find a job with the highest possible salary with their little experience?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
 
 ## File Descriptions <a name="files"></a>
 
-There are one notebook available here to show work related to the above questions. The notebook is provided with many Markdown cells that describe some headlines or comments. 
+There is one notebook available here to show work related to the above questions. The notebook is provided with many Markdown cells to describe some headlines or comments. 
  
-There is an `.csv` file which is the dataset used for this project
+There is also a `.csv` file which is the dataset used for this project.
 
 ## Results<a name="results"></a>
 
