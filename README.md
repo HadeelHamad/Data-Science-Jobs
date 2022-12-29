@@ -30,7 +30,7 @@ There is an `.csv` file which is the dataset used for this project
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@xhadeel246/what-are-the-data-science-jobs-salaries-1d8008cdb62a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
